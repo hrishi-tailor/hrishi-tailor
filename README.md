@@ -1,7 +1,22 @@
-## Hi there 👋
+<h1>Hello, my name is Hrishi Tailor <br/><a href="https://google.com">Programmer</a>, <a href="https://google.com">Cybersecurity Professional</a>, <a href="https://google.com">YouTuber</a></h1>
+
+<h2>👨‍💻 Cybersecurity:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://google.com)
+
+<h2>👨‍💻 Data Structure:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://google.com)
+
+<h2>👨‍💻 Artificial Intelligence:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://google.com) 
+
 
 <!--
-**hrishi-tailor/hrishi-tailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
