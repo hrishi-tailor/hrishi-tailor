@@ -3,7 +3,7 @@
 <h2>👨‍💻 Miscellaneous:</h2>
 
 - <b>GymGenius</b>
-  - [Catered Fitness App]([https://google.com](https://github.com/hrishi-tailor/GymGenius))
+  - [Catered Fitness App](https://github.com/hrishi-tailor/GymGenius)
 
 <h2>👨‍💻 Cybersecurity:</h2>
 
