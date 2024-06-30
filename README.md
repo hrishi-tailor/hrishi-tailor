@@ -1,5 +1,10 @@
 <h1>Hello, my name is Hrishi Tailor <br/><a href="https://google.com">Programmer</a>, <a href="https://google.com">Cybersecurity Professional</a>, <a href="https://google.com">YouTuber</a></h1>
 
+<h2>👨‍💻 Miscellaneous:</h2>
+
+- <b>GymGenius</b>
+  - [Catered Fitness App]([https://google.com](https://github.com/hrishi-tailor/GymGenius))
+
 <h2>👨‍💻 Cybersecurity:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
