@@ -20,7 +20,7 @@ A project that delivers tailored workout plans based on user input such as age, 
 ---
 
 ## 🌐 Connect with Me
-- **LinkedIn**: [linkedin.com/in/hrishi-tailor-990696224](https://www.linkedin.com/in/hrishi-tailor-990696224/)  
+- **LinkedIn**: [linkedin.com/in/hrishi-tailor](https://www.linkedin.com/in/hrishi-tailor-990696224/)  
 - **Portfolio**: [Coming Soon](#)
 
 ---
