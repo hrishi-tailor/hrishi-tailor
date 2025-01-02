@@ -1,4 +1,4 @@
-<h1>Hello, my name is Hrishi Tailor <br/><a href="https://google.com">Programmer</a>, <a href="https://google.com">Cybersecurity Professional</a>, <a href="https://google.com">YouTuber</a></h1>
+<h1>Hello, my name is Hrishi Tailor <br/><a href="https://google.com">Programmer</a>, <a href="https://google.com">Student</a>, <a href="https://google.com">Aspiring Engineer</a></h1>
 
 <h2>👨‍💻 Miscellaneous:</h2>
 
