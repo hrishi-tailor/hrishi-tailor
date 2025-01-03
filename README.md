@@ -6,10 +6,8 @@ I'm passionate about building projects that solve real-world problems, exploring
 ---
 
 ## 🎯 Featured Projects
-🌟 **[GymGenius](https://github.com/hrishi-tailor/GymGenius)**  
-*Your personalized fitness assistant*  
-A project that delivers tailored workout plans based on user input such as age, gender, and fitness goals. Includes downloadable PDFs and exercise demos.
-
+🌟 **[Simple AI ChatBot](https://github.com/hrishi-tailor/Simple-AI-ChatBot)**  
+An adaptive chatbot demonstrating foundational NLP techniques, real-time learning, and intent recognition.
 ---
 
 ## 🛠️ Skills in Progress
