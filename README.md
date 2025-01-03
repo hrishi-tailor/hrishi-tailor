@@ -8,6 +8,10 @@ I'm passionate about building projects that solve real-world problems, exploring
 ## 🎯 Featured Projects
 🌟 **[Simple AI ChatBot](https://github.com/hrishi-tailor/Simple-AI-ChatBot)**  
 An adaptive chatbot demonstrating foundational NLP techniques, real-time learning, and intent recognition.
+🌟 **[Simple AI ChatBot](https://github.com/hrishi-tailor/Simple-AI-ChatBot)**  
+An adaptive chatbot demonstrating foundational NLP techniques, real-time learning, and intent recognition.
+🌟 **[Simple AI ChatBot](https://github.com/hrishi-tailor/Simple-AI-ChatBot)**  
+An adaptive chatbot demonstrating foundational NLP techniques, real-time learning, and intent recognition.
 ---
 
 ## 🛠️ Skills in Progress
