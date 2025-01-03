@@ -6,12 +6,13 @@ I'm passionate about building projects that solve real-world problems, exploring
 ---
 
 ## 🎯 Featured Projects
-🌟 **[Simple AI ChatBot](https://github.com/hrishi-tailor/Simple-AI-ChatBot)**  
+
+📄 **[Simple AI ChatBot](https://github.com/hrishi-tailor/Simple-AI-ChatBot)**  
 An adaptive chatbot demonstrating foundational NLP techniques, real-time learning, and intent recognition.
-🌟 **[Simple AI ChatBot](https://github.com/hrishi-tailor/Simple-AI-ChatBot)**  
+🤖 **[Simple AI ChatBot](https://github.com/hrishi-tailor/Simple-AI-ChatBot)**  
 An adaptive chatbot demonstrating foundational NLP techniques, real-time learning, and intent recognition.
-🌟 **[Simple AI ChatBot](https://github.com/hrishi-tailor/Simple-AI-ChatBot)**  
-An adaptive chatbot demonstrating foundational NLP techniques, real-time learning, and intent recognition.
+📚 **[Power Hour Peer Tutoring Website](https://github.com/hrishi-tailor/Power-Hour-Peer-Tutoring)**  
+School project website developed using HTML, CSS, and JavaScript, aimed at simplifying the process of peer tutoring and supporting teachers in managing tutoring sessions effectively.
 ---
 
 ## 🛠️ Skills in Progress
