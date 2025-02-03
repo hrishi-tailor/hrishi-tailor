@@ -16,6 +16,8 @@
 - 📚 **[Power Hour Peer Tutoring Website](https://github.com/hrishi-tailor/Power-Hour-Peer-Tutoring)**  
   *A school project aimed at simplifying peer tutoring and helping teachers manage sessions effectively, built using HTML, CSS, and JavaScript.*  
 
+- 📚 **[Arduino Projects]([https://github.com/hrishi-tailor/Arduino-Projects](https://github.com/hrishi-tailor/Arduino-Projects))**  
+  *Developing expertise in Arduino and C++ for innovative hardware projects.* 
 ---
 
 ## 🛠️ **Skills in Progress**  
