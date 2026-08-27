@@ -10,4 +10,4 @@ engineering internship where I can keep building things that scale.
 
 ## 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/hrishi-tailor](https://www.linkedin.com/in/hrishi-tailor-990696224/)
-- Portfolio: *(add once live)*
+- Portfolio: 
