@@ -30,15 +30,6 @@ A limit order book with price-time priority, plus a market data pipeline that fe
 - **Market data:** live Coinbase WebSocket feed, rolling VWAP, moving average and volatility, and price-spike detection
 - **Event bus:** pluggable, in-memory for local runs or Kafka for separate consumers
 
-## Earlier projects
-
-| Project | Built with | What it is |
-| :--- | :--- | :--- |
-| [Simple AI ChatBot](https://github.com/hrishi-tailor/Simple-AI-ChatBot) | Python | Intent-matching chatbot with fuzzy input matching that learns new responses at runtime |
-| [Power Hour Peer Tutoring](https://github.com/hrishi-tailor/Power-Hour-Peer-Tutoring) | HTML, CSS | Site that helps students at my school find a tutor or sign up to tutor for volunteer hours |
-| [Arduino Projects](https://github.com/hrishi-tailor/Arduino-Projects) | C++ | Circuits from basic LEDs up to a 4x4 LED matrix |
-| [Portfolio](https://github.com/hrishi-tailor/Portfolio) | HTML | My personal portfolio site |
-
 ## Tools I use
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
