@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hrishi 👋</h1>
 
 <p align="center">
-  Computer Science (Co-op) at the University of Waterloo · Founder of <a href="https://tailorcards.com">Tailor Cards</a>
+  Honours Mathematics (Co-op) at the University of Waterloo · Founder of <a href="https://tailorcards.com">Tailor Cards</a>
 
 <p align="center">
   <a href="https://hrishitailor.com"><img alt="Website" src="https://img.shields.io/badge/hrishitailor.com-222222?style=flat"></a>
